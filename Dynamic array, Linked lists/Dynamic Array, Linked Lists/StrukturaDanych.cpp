@@ -1,0 +1,2 @@
+#include "StrukturaDanych.h"
+
